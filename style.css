@@ -1,0 +1,13 @@
+.header {
+  background-color: #666;
+  color: white;
+  width: fit-content;
+  padding: 10px;
+  border-radius: 6px;
+  margin: auto;
+  transition: .5s;
+}
+.header:hover {
+  background-color: black;
+  color: red;
+}
